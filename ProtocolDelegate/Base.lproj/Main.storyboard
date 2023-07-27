@@ -173,7 +173,7 @@
                                     <color key="baseForegroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="storedButtonClicked:" destination="Yrn-WZ-GWq" eventType="touchUpInside" id="uVT-NA-ctr"/>
+                                    <action selector="storedButtonClicked:" destination="Yrn-WZ-GWq" eventType="touchUpInside" id="Xsv-2K-Xfb"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="q4F-DA-uZh">
@@ -188,7 +188,7 @@
                                     <color key="baseForegroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="fetchButtonClicked:" destination="Yrn-WZ-GWq" eventType="touchUpInside" id="dEj-2n-adG"/>
+                                    <action selector="fetchButtonClicked:" destination="Yrn-WZ-GWq" eventType="touchUpInside" id="v8C-Jb-G0j"/>
                                 </connections>
                             </button>
                         </subviews>
